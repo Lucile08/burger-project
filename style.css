@@ -3,3 +3,7 @@ h1 {
     justify-content: center;
     font-family: 'Open Sans', sans-serif;
 };
+
+body {
+    background-color: #16a085
+}
